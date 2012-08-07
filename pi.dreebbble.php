@@ -7,7 +7,7 @@
 *
 * @package Dreebbble
 * @version 1.4
-* @author Olivier Bon <studio@olivierbon.com>
+* @author Olivier Bon <oli@builtwithmomentum.com>
 * @link http://olivierbon.com/projects/dreebbble
 * @copyright Copyright (c) 2010, Olivier Bon Studios
 * @license http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 Unported
